@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">XTalent</string>
+    <string name="contraseña">Escriba la contraseña</string>
+    <string name="usuario">Escriba el usuario</string>
+    <string name="txtEntrada">Entrar</string>
+    <string name="txtRecuperar">Enviar correo</string>
+    <string name="txtLogo">Logo empresa</string>
+    <string name="imagen_usuario">Imagen Usuario</string>
+    <string name="imagen_candado">Imagen candado</string>
+    <string name="recuperar_contrasena">¿Has olvidado tu contraseña?</string>
+    <string name="registrar">¿Nuevo? Regístrate aquí</string>
+    <string name="cancelarRecuperarContrasena">Cancelar</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
